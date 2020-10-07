@@ -8,10 +8,8 @@ Some application servers (e.g. Ruby's Unicorn) halt progress when dealing with n
 
 ## Versions
 
-### Cedar-14 (deprecated)
-* NGINX Version: 1.9.5
 ### Heroku 16
-* NGINX Version: 1.9.5
+* NGINX Version: 1.9.15
 ### Heroku 18
 * NGINX Version: 1.18.0
 ### Heroku 20
